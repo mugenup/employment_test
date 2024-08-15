@@ -1,0 +1,22 @@
+:root {
+  --body-background: #1c1c1e;
+  --main-text: #d4d4d4;
+  --link-color: #9cdcfe;
+}
+
+[data-theme='light'] {
+  --background: #ffffff;
+  --main-text: #000000;
+  --link-color: #0451a5;
+}
+
+body {
+  background-color: var(--body-background);
+  color: var(--main-text);
+  font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo,
+    sans-serif;
+}
+
+a {
+  color: var(--link-color);
+}
