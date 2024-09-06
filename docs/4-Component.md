@@ -38,7 +38,7 @@
 
 - `About` をクリックすると、`app/src/assets/markdown/about.md` の内容を `HTML` に変換して、メインに表示されるようにしてください。
 - `Markdown` の規格としては、`GitHub Flavored Markdown Spec` を満たしていれば問題ありません。
-- また、`npm run dev` で最初にアクセスしたとき
+- また、`npm run dev` で最初にアクセスしたとき、この内容が表示されるようにしてください
 
 ### 参考
 
