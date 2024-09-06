@@ -5,6 +5,9 @@
 
 ## ▼求人情報詳細はこちら
 
+- [Wantedly](https://www.wantedly.com/projects/1808210)
+- [Green](https://www.green-japan.com/company/2662/job/261930)
+
 ## ▼ご応募はこちら
 
 - [MUGENUP コーポレートサイト](https://recruit.mugenup.com/entry/)
