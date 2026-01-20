@@ -1,0 +1,23 @@
+{
+  "name": "frontend-hiring-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "vue": "^3.5.27"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "esbuild-loader": "^4.4.2",
+    "html-webpack-plugin": "^5.6.6",
+    "style-loader": "^4.0.0",
+    "svg-url-loader": "^8.0.0",
+    "vue-loader": "^17.4.2",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.3"
+  }
+}
