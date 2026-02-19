@@ -3,14 +3,9 @@
 当リポジトリは、MUGENUP Inc. Save Point事業部フロントエンドエンジニア向け技術試験のリポジトリとなります。
 一次面接の通過者が対象となっております。ご興味のある方はふるってご参加ください。
 
-## ▼求人情報詳細はこちら
-
-- [Wantedly]()
-- [Green]()
-
 ## ▼ご応募はこちら
 
-- [MUGENUP コーポレートサイト](https://recruit.mugenup.com/entry/)
+- [SavePoint事業部／フロントエンドエンジニア - Talentio](https://open.talentio.com/r/1/c/mugenup/pages/98478)
 
 ## 回答方法
 
